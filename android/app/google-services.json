@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "562166694361",
+    "project_id": "conversate-10bdb",
+    "storage_bucket": "conversate-10bdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562166694361:android:de2b71023dd19a447919c8",
+        "android_client_info": {
+          "package_name": "com.example.converse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562166694361-tc3cke2nv9a974p3squcs2ep935jv9u3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.converse",
+            "certificate_hash": "e3d8374e5ea5fee8191f1352f8a8b28f4588cc6b"
+          }
+        },
+        {
+          "client_id": "562166694361-0ik66d6hhmkirblp5ir4af56f3ldtau3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsc8jz8B8Q6ZUg0Emzaz4zXtl8dfx1vjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "562166694361-0ik66d6hhmkirblp5ir4af56f3ldtau3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "562166694361-0gain3ufvdlh3eg6ihtf2al2st58p6j5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.converse"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

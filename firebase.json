@@ -1,0 +1,57 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "conversate-10bdb",
+          "appId": "1:562166694361:android:de2b71023dd19a447919c8",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "ios": {
+        "default": {
+          "projectId": "conversate-10bdb",
+          "appId": "1:562166694361:ios:21de8a39d1f918957919c8",
+          "uploadDebugSymbols": false,
+          "fileOutput": "ios/Runner/GoogleService-Info.plist"
+        }
+      },
+      "macos": {
+        "default": {
+          "projectId": "conversate-10bdb",
+          "appId": "1:562166694361:ios:21de8a39d1f918957919c8",
+          "uploadDebugSymbols": false,
+          "fileOutput": "macos/Runner/GoogleService-Info.plist"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "conversate-10bdb",
+          "configurations": {
+            "android": "1:562166694361:android:de2b71023dd19a447919c8",
+            "ios": "1:562166694361:ios:21de8a39d1f918957919c8",
+            "macos": "1:562166694361:ios:21de8a39d1f918957919c8",
+            "web": "1:562166694361:web:d7a66a46c92410a77919c8",
+            "windows": "1:562166694361:web:8a3800726a789a1b7919c8"
+          }
+        }
+      }
+    }
+  },
+  "functions": [
+    {
+      "source": "functions",
+      "codebase": "default",
+      "ignore": [
+        "node_modules",
+        ".git",
+        "firebase-debug.log",
+        "firebase-debug.*.log",
+        "*.local"
+      ],
+      "predeploy": [
+        "npm --prefix \"$RESOURCE_DIR\" run lint"
+      ]
+    }
+  ]
+}

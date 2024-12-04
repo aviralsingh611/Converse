@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">562166694361-0ik66d6hhmkirblp5ir4af56f3ldtau3.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">562166694361</string>
+    <string name="google_api_key" translatable="false">AIzaSyBsc8jz8B8Q6ZUg0Emzaz4zXtl8dfx1vjU</string>
+    <string name="google_app_id" translatable="false">1:562166694361:android:de2b71023dd19a447919c8</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBsc8jz8B8Q6ZUg0Emzaz4zXtl8dfx1vjU</string>
+    <string name="google_storage_bucket" translatable="false">conversate-10bdb.appspot.com</string>
+    <string name="project_id" translatable="false">conversate-10bdb</string>
+</resources>

@@ -1,0 +1,7 @@
+#Mon Nov 04 20:42:12 IST 2024
+base.0=/Users/aviralsingh/AndroidStudioProjects/converse/android/app/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/app/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/0/classes.dex
+base.1=/Users/aviralsingh/AndroidStudioProjects/converse/android/app/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/app/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/5/classes.dex
+path.0=0/classes.dex
+path.1=5/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex

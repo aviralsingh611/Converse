@@ -1,0 +1,755 @@
+-- Merging decision tree log ---
+application
+INJECTED from /Users/aviralsingh/AndroidStudioProjects/converse/android/app/src/main/AndroidManifest.xml:4:5-35:19
+INJECTED from /Users/aviralsingh/AndroidStudioProjects/converse/android/app/src/debug/AndroidManifest.xml
+MERGED from [:cloud_firestore] /Users/aviralsingh/.pub-cache/hosted/pub.dev/cloud_firestore-5.5.0/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/cloud_firestore/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:7:5-13:19
+MERGED from [:cloud_firestore] /Users/aviralsingh/.pub-cache/hosted/pub.dev/cloud_firestore-5.5.0/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/cloud_firestore/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_auth] /Users/aviralsingh/.pub-cache/hosted/pub.dev/firebase_auth-5.3.3/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/firebase_auth/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_auth] /Users/aviralsingh/.pub-cache/hosted/pub.dev/firebase_auth-5.3.3/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/firebase_auth/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_database] /Users/aviralsingh/.pub-cache/hosted/pub.dev/firebase_database-11.1.6/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/firebase_database/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_database] /Users/aviralsingh/.pub-cache/hosted/pub.dev/firebase_database-11.1.6/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/firebase_database/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_storage] /Users/aviralsingh/.pub-cache/hosted/pub.dev/firebase_storage-12.3.6/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/firebase_storage/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_storage] /Users/aviralsingh/.pub-cache/hosted/pub.dev/firebase_storage-12.3.6/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/firebase_storage/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_core] /Users/aviralsingh/.pub-cache/hosted/pub.dev/firebase_core-3.8.0/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/firebase_core/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_core] /Users/aviralsingh/.pub-cache/hosted/pub.dev/firebase_core-3.8.0/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/firebase_core/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:7:5-13:19
+MERGED from [:image_picker_android] /Users/aviralsingh/.pub-cache/hosted/pub.dev/image_picker_android-0.8.12+18/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:8:5-32:19
+MERGED from [:image_picker_android] /Users/aviralsingh/.pub-cache/hosted/pub.dev/image_picker_android-0.8.12+18/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:8:5-32:19
+MERGED from [:url_launcher_android] /Users/aviralsingh/.pub-cache/hosted/pub.dev/url_launcher_android-6.3.14/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/url_launcher_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:7:5-12:19
+MERGED from [:url_launcher_android] /Users/aviralsingh/.pub-cache/hosted/pub.dev/url_launcher_android-6.3.14/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/url_launcher_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:7:5-12:19
+MERGED from [com.google.firebase:firebase-auth:23.1.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/762121f511681907882dde777c49da20/transformed/jetified-firebase-auth-23.1.0/AndroidManifest.xml:28:5-73:19
+MERGED from [com.google.firebase:firebase-auth:23.1.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/762121f511681907882dde777c49da20/transformed/jetified-firebase-auth-23.1.0/AndroidManifest.xml:28:5-73:19
+MERGED from [com.google.firebase:firebase-firestore:25.1.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/a7eaa53f6e78839adda62bdbee19ad68/transformed/jetified-firebase-firestore-25.1.1/AndroidManifest.xml:13:5-24:19
+MERGED from [com.google.firebase:firebase-firestore:25.1.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/a7eaa53f6e78839adda62bdbee19ad68/transformed/jetified-firebase-firestore-25.1.1/AndroidManifest.xml:13:5-24:19
+MERGED from [com.google.firebase:firebase-storage:21.0.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/fde2867f9dc878a6eb8fcfd9c3d65a24/transformed/jetified-firebase-storage-21.0.1/AndroidManifest.xml:26:5-37:19
+MERGED from [com.google.firebase:firebase-storage:21.0.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/fde2867f9dc878a6eb8fcfd9c3d65a24/transformed/jetified-firebase-storage-21.0.1/AndroidManifest.xml:26:5-37:19
+MERGED from [com.google.firebase:firebase-database:21.0.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/f95e9d55391c9731984c7e7e6de29d55/transformed/jetified-firebase-database-21.0.0/AndroidManifest.xml:25:5-36:19
+MERGED from [com.google.firebase:firebase-database:21.0.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/f95e9d55391c9731984c7e7e6de29d55/transformed/jetified-firebase-database-21.0.0/AndroidManifest.xml:25:5-36:19
+MERGED from [com.google.firebase:firebase-appcheck:18.0.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/c73733ac8cadb0d13422224b9ccf874c/transformed/jetified-firebase-appcheck-18.0.0/AndroidManifest.xml:21:5-32:19
+MERGED from [com.google.firebase:firebase-appcheck:18.0.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/c73733ac8cadb0d13422224b9ccf874c/transformed/jetified-firebase-appcheck-18.0.0/AndroidManifest.xml:21:5-32:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/de407ce4cd2cb9dfbcc5abdbe6d2f07b/transformed/jetified-firebase-common-ktx-21.0.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/de407ce4cd2cb9dfbcc5abdbe6d2f07b/transformed/jetified-firebase-common-ktx-21.0.0/AndroidManifest.xml:8:5-16:19
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/aviralsingh/.gradle/caches/8.9/transforms/32911a2493e136e5a0134ada41ba7790/transformed/jetified-credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:23:5-42:19
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/aviralsingh/.gradle/caches/8.9/transforms/32911a2493e136e5a0134ada41ba7790/transformed/jetified-credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:23:5-42:19
+MERGED from [com.google.android.gms:play-services-auth:21.0.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/6a2149178f77afdc6818fe857f05ac23/transformed/jetified-play-services-auth-21.0.0/AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-auth:21.0.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/6a2149178f77afdc6818fe857f05ac23/transformed/jetified-play-services-auth-21.0.0/AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/e272d68ca6bfada085c21c6625d33999/transformed/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/e272d68ca6bfada085c21c6625d33999/transformed/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/402f180e9e84e72ef4fd9db71808a683/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/402f180e9e84e72ef4fd9db71808a683/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.android.play:integrity:1.3.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/f3b26391203ba67571039f8be9b1311f/transformed/jetified-integrity-1.3.0/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.play:integrity:1.3.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/f3b26391203ba67571039f8be9b1311f/transformed/jetified-integrity-1.3.0/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/960c9956be97b88465665ccb84d50c0a/transformed/jetified-firebase-appcheck-interop-17.1.0/AndroidManifest.xml:21:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/960c9956be97b88465665ccb84d50c0a/transformed/jetified-firebase-appcheck-interop-17.1.0/AndroidManifest.xml:21:5-20
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/55b459a8d4244a64aca01067a8fa8e02/transformed/jetified-play-services-fido-20.1.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/55b459a8d4244a64aca01067a8fa8e02/transformed/jetified-play-services-fido-20.1.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/6e6dfcb3fff6bf0f2337415b1105ba2f/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/6e6dfcb3fff6bf0f2337415b1105ba2f/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:19:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/414f7c63da689d96557a872cd9bde215/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/414f7c63da689d96557a872cd9bde215/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.window:window:1.2.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/0c376418574f6f368f650ce813459738/transformed/jetified-window-1.2.0/AndroidManifest.xml:22:5-29:19
+MERGED from [androidx.window:window:1.2.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/0c376418574f6f368f650ce813459738/transformed/jetified-window-1.2.0/AndroidManifest.xml:22:5-29:19
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/6d55b823150cfb5a6ed4add6d3fdb48b/transformed/jetified-play-services-tasks-18.2.0/AndroidManifest.xml:4:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/6d55b823150cfb5a6ed4add6d3fdb48b/transformed/jetified-play-services-tasks-18.2.0/AndroidManifest.xml:4:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/417a55de4349f78c39440883fcd69286/transformed/jetified-play-services-basement-18.4.0/AndroidManifest.xml:5:5-7:19
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/417a55de4349f78c39440883fcd69286/transformed/jetified-play-services-basement-18.4.0/AndroidManifest.xml:5:5-7:19
+MERGED from [androidx.core:core:1.13.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/0021ee0cab0995096f7253ab38b0708b/transformed/core-1.13.1/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/0021ee0cab0995096f7253ab38b0708b/transformed/core-1.13.1/AndroidManifest.xml:28:5-89
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/3b0ba3d005f7f811372e751c5b6d6971/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/3b0ba3d005f7f811372e751c5b6d6971/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/3eaf3d39ad01421bb66cdc78ec6de91f/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/3eaf3d39ad01421bb66cdc78ec6de91f/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/b8f95e486b3d8baa41b5f054e9ecd7d8/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/b8f95e486b3d8baa41b5f054e9ecd7d8/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.android.play:core-common:2.0.3] /Users/aviralsingh/.gradle/caches/8.9/transforms/1a2f1184c82324afae55c6e927aa7389/transformed/jetified-core-common-2.0.3/AndroidManifest.xml:11:5-19:19
+MERGED from [com.google.android.play:core-common:2.0.3] /Users/aviralsingh/.gradle/caches/8.9/transforms/1a2f1184c82324afae55c6e927aa7389/transformed/jetified-core-common-2.0.3/AndroidManifest.xml:11:5-19:19
+	android:extractNativeLibs
+		INJECTED from /Users/aviralsingh/AndroidStudioProjects/converse/android/app/src/debug/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/0021ee0cab0995096f7253ab38b0708b/transformed/core-1.13.1/AndroidManifest.xml:28:18-86
+	android:name
+		INJECTED from /Users/aviralsingh/AndroidStudioProjects/converse/android/app/src/main/AndroidManifest.xml
+manifest
+ADDED from /Users/aviralsingh/AndroidStudioProjects/converse/android/app/src/main/AndroidManifest.xml:1:1-47:12
+MERGED from /Users/aviralsingh/AndroidStudioProjects/converse/android/app/src/main/AndroidManifest.xml:1:1-47:12
+INJECTED from /Users/aviralsingh/AndroidStudioProjects/converse/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/aviralsingh/AndroidStudioProjects/converse/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/aviralsingh/AndroidStudioProjects/converse/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+MERGED from [:cloud_firestore] /Users/aviralsingh/.pub-cache/hosted/pub.dev/cloud_firestore-5.5.0/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/cloud_firestore/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:2:1-15:12
+MERGED from [:firebase_auth] /Users/aviralsingh/.pub-cache/hosted/pub.dev/firebase_auth-5.3.3/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/firebase_auth/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:2:1-15:12
+MERGED from [:firebase_database] /Users/aviralsingh/.pub-cache/hosted/pub.dev/firebase_database-11.1.6/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/firebase_database/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:2:1-15:12
+MERGED from [:firebase_storage] /Users/aviralsingh/.pub-cache/hosted/pub.dev/firebase_storage-12.3.6/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/firebase_storage/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:2:1-15:12
+MERGED from [:firebase_core] /Users/aviralsingh/.pub-cache/hosted/pub.dev/firebase_core-3.8.0/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/firebase_core/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:2:1-15:12
+MERGED from [:flutter_contacts] /Users/aviralsingh/.pub-cache/hosted/pub.dev/flutter_contacts-1.1.9+2/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/flutter_contacts/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:2:1-7:12
+MERGED from [:image_picker_android] /Users/aviralsingh/.pub-cache/hosted/pub.dev/image_picker_android-0.8.12+18/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:2:1-34:12
+MERGED from [:flutter_plugin_android_lifecycle] /Users/aviralsingh/.pub-cache/hosted/pub.dev/flutter_plugin_android_lifecycle-2.0.23/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/flutter_plugin_android_lifecycle/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:2:1-7:12
+MERGED from [:google_sign_in_android] /Users/aviralsingh/.pub-cache/hosted/pub.dev/google_sign_in_android-6.1.33/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/google_sign_in_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:2:1-9:12
+MERGED from [:path_provider_android] /Users/aviralsingh/.pub-cache/hosted/pub.dev/path_provider_android-2.2.14/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/path_provider_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:2:1-7:12
+MERGED from [:photo_manager] /Users/aviralsingh/.pub-cache/hosted/pub.dev/photo_manager-3.6.3/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/photo_manager/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:2:1-11:12
+MERGED from [:sqflite_android] /Users/aviralsingh/.pub-cache/hosted/pub.dev/sqflite_android-2.4.0/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/sqflite_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:2:1-7:12
+MERGED from [:url_launcher_android] /Users/aviralsingh/.pub-cache/hosted/pub.dev/url_launcher_android-6.3.14/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/url_launcher_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:2:1-14:12
+MERGED from [com.google.firebase:firebase-auth:23.1.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/762121f511681907882dde777c49da20/transformed/jetified-firebase-auth-23.1.0/AndroidManifest.xml:17:1-75:12
+MERGED from [com.google.firebase:firebase-firestore:25.1.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/a7eaa53f6e78839adda62bdbee19ad68/transformed/jetified-firebase-firestore-25.1.1/AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.firebase:firebase-storage:21.0.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/fde2867f9dc878a6eb8fcfd9c3d65a24/transformed/jetified-firebase-storage-21.0.1/AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.firebase:firebase-database:21.0.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/f95e9d55391c9731984c7e7e6de29d55/transformed/jetified-firebase-database-21.0.0/AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.firebase:firebase-appcheck:18.0.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/c73733ac8cadb0d13422224b9ccf874c/transformed/jetified-firebase-appcheck-18.0.0/AndroidManifest.xml:15:1-34:12
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/de407ce4cd2cb9dfbcc5abdbe6d2f07b/transformed/jetified-firebase-common-ktx-21.0.0/AndroidManifest.xml:2:1-18:12
+MERGED from [androidx.credentials:credentials:1.2.0-rc01] /Users/aviralsingh/.gradle/caches/8.9/transforms/74abdb5273eaa8cf420ee8c18ec56e52/transformed/jetified-credentials-1.2.0-rc01/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/aviralsingh/.gradle/caches/8.9/transforms/32911a2493e136e5a0134ada41ba7790/transformed/jetified-credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:17:1-44:12
+MERGED from [com.google.android.gms:play-services-auth:21.0.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/6a2149178f77afdc6818fe857f05ac23/transformed/jetified-play-services-auth-21.0.0/AndroidManifest.xml:17:1-40:12
+MERGED from [com.github.bumptech.glide:glide:4.16.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/d951f2f5a90251e89a4d34488c60fda2/transformed/jetified-glide-4.16.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/e272d68ca6bfada085c21c6625d33999/transformed/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-common:21.0.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/402f180e9e84e72ef4fd9db71808a683/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.2] /Users/aviralsingh/.gradle/caches/8.9/transforms/8855dbb9d1edf55d7fb97a8c35f2f3f3/transformed/jetified-play-services-auth-api-phone-18.0.2/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.10] /Users/aviralsingh/.gradle/caches/8.9/transforms/8915cc4c1e07afd03764160d62112eb2/transformed/jetified-play-services-auth-base-18.0.10/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.recaptcha:recaptcha:18.5.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/6b8d2075cc4b9182bf6b55ddfa92a435/transformed/jetified-recaptcha-18.5.1/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.play:integrity:1.3.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/f3b26391203ba67571039f8be9b1311f/transformed/jetified-integrity-1.3.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/960c9956be97b88465665ccb84d50c0a/transformed/jetified-firebase-appcheck-interop-17.1.0/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/9a37ba69428707af8c85ec2d25000dcc/transformed/jetified-firebase-database-collection-18.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/55b459a8d4244a64aca01067a8fa8e02/transformed/jetified-play-services-fido-20.1.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/6e6dfcb3fff6bf0f2337415b1105ba2f/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:16:1-24:12
+MERGED from [androidx.loader:loader:1.1.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/68ff12bdc3f45694b58590be667267d7/transformed/loader-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/be16e4c2e36debacde449b14866f231a/transformed/lifecycle-livedata-core-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/bc3d9e7901cd67495454c45a612cd5db/transformed/jetified-lifecycle-viewmodel-savedstate-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/e331df45a422642de02f05b465fac6b4/transformed/lifecycle-viewmodel-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/357576690cff27067c2388bc315dd684/transformed/lifecycle-runtime-2.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/414f7c63da689d96557a872cd9bde215/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/7a0f4059a4c1d771fbc1b8789d75ce71/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.window:window-java:1.2.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/22e0d63403efb8f561e0cd03fec3e6b4/transformed/jetified-window-java-1.2.0/AndroidManifest.xml:17:1-21:12
+MERGED from [androidx.window:window:1.2.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/0c376418574f6f368f650ce813459738/transformed/jetified-window-1.2.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/6d55b823150cfb5a6ed4add6d3fdb48b/transformed/jetified-play-services-tasks-18.2.0/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/417a55de4349f78c39440883fcd69286/transformed/jetified-play-services-basement-18.4.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.fragment:fragment:1.7.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/9c087c295f6f4c0d99c03441a98049a8/transformed/fragment-1.7.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity:1.9.2] /Users/aviralsingh/.gradle/caches/8.9/transforms/25b2dc5a3bed7e367e7444f5d186a041/transformed/jetified-activity-1.9.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.browser:browser:1.8.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/9ee8fa5f129d256337fbbf3984198e08/transformed/browser-1.8.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/bfb3ac1952cc1440abc60e36216a872d/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.13.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/418e387c595c97e12925fd56e43f961c/transformed/jetified-core-ktx-1.13.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/410cb9a5d883e0c89fb9da4dbc4efe52/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/7433917ffada13bf9f947885568da03d/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/c157937cb6b5bd46019ba35029645683/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.13.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/0021ee0cab0995096f7253ab38b0708b/transformed/core-1.13.1/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.7] /Users/aviralsingh/.gradle/caches/8.9/transforms/6039ccfe3b94464d772f7d26ccfda596/transformed/exifinterface-1.3.7/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/3b0ba3d005f7f811372e751c5b6d6971/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/3eaf3d39ad01421bb66cdc78ec6de91f/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/6e42a15902b22db58b3c7d51b0010f46/transformed/jetified-tracing-1.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/96d404fc5d0321272954385b1cd9ca34/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/b8f95e486b3d8baa41b5f054e9ecd7d8/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/5b4230c05a182304979f53721bc74adb/transformed/jetified-gifdecoder-4.16.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/de9f1536b283c0b62dc8602c7de8069d/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:18.0.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/bc4059012ed52ea6de635217742bb235/transformed/jetified-firebase-components-18.0.0/AndroidManifest.xml:15:1-20:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/10824970505649da069df339788f1fc8/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.window.extensions.core:core:1.0.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/4e55f19422445c3298715fc92efb62a3/transformed/jetified-core-1.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/dd06af1a4110938649659134d6e67bee/transformed/jetified-annotation-experimental-1.4.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.libraries.identity.googleid:googleid:1.1.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/c06f37ce47e5609a8255933bd61dfea9/transformed/jetified-googleid-1.1.0/AndroidManifest.xml:2:1-7:12
+MERGED from [io.grpc:grpc-android:1.62.2] /Users/aviralsingh/.gradle/caches/8.9/transforms/57f18335405eae99b01c0506fa864b47/transformed/jetified-grpc-android-1.62.2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/b7018558807a8763f773dd8f2a6d7288/transformed/jetified-protolite-well-known-types-18.0.0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.play:core-common:2.0.3] /Users/aviralsingh/.gradle/caches/8.9/transforms/1a2f1184c82324afae55c6e927aa7389/transformed/jetified-core-common-2.0.3/AndroidManifest.xml:2:1-21:12
+	package
+		INJECTED from /Users/aviralsingh/AndroidStudioProjects/converse/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/aviralsingh/AndroidStudioProjects/converse/android/app/src/debug/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/aviralsingh/AndroidStudioProjects/converse/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/aviralsingh/AndroidStudioProjects/converse/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /Users/aviralsingh/AndroidStudioProjects/converse/android/app/src/main/AndroidManifest.xml:2:5-71
+	android:name
+		ADDED from /Users/aviralsingh/AndroidStudioProjects/converse/android/app/src/main/AndroidManifest.xml:2:22-69
+uses-permission#android.permission.WRITE_CONTACTS
+ADDED from /Users/aviralsingh/AndroidStudioProjects/converse/android/app/src/main/AndroidManifest.xml:3:5-72
+	android:name
+		ADDED from /Users/aviralsingh/AndroidStudioProjects/converse/android/app/src/main/AndroidManifest.xml:3:22-70
+queries
+ADDED from /Users/aviralsingh/AndroidStudioProjects/converse/android/app/src/main/AndroidManifest.xml:41:5-46:15
+intent#action:name:android.intent.action.PROCESS_TEXT+data:mimeType:text/plain
+ADDED from /Users/aviralsingh/AndroidStudioProjects/converse/android/app/src/main/AndroidManifest.xml:42:9-45:18
+action#android.intent.action.PROCESS_TEXT
+ADDED from /Users/aviralsingh/AndroidStudioProjects/converse/android/app/src/main/AndroidManifest.xml:43:13-72
+	android:name
+		ADDED from /Users/aviralsingh/AndroidStudioProjects/converse/android/app/src/main/AndroidManifest.xml:43:21-70
+data
+ADDED from /Users/aviralsingh/AndroidStudioProjects/converse/android/app/src/main/AndroidManifest.xml:44:13-50
+	android:mimeType
+		ADDED from /Users/aviralsingh/AndroidStudioProjects/converse/android/app/src/main/AndroidManifest.xml:44:19-48
+uses-permission#android.permission.INTERNET
+ADDED from /Users/aviralsingh/AndroidStudioProjects/converse/android/app/src/debug/AndroidManifest.xml:6:5-66
+MERGED from [:google_sign_in_android] /Users/aviralsingh/.pub-cache/hosted/pub.dev/google_sign_in_android-6.1.33/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/google_sign_in_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:7:5-67
+MERGED from [:google_sign_in_android] /Users/aviralsingh/.pub-cache/hosted/pub.dev/google_sign_in_android-6.1.33/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/google_sign_in_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:7:5-67
+MERGED from [com.google.firebase:firebase-auth:23.1.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/762121f511681907882dde777c49da20/transformed/jetified-firebase-auth-23.1.0/AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-auth:23.1.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/762121f511681907882dde777c49da20/transformed/jetified-firebase-auth-23.1.0/AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-firestore:25.1.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/a7eaa53f6e78839adda62bdbee19ad68/transformed/jetified-firebase-firestore-25.1.1/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-firestore:25.1.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/a7eaa53f6e78839adda62bdbee19ad68/transformed/jetified-firebase-firestore-25.1.1/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-storage:21.0.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/fde2867f9dc878a6eb8fcfd9c3d65a24/transformed/jetified-firebase-storage-21.0.1/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-storage:21.0.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/fde2867f9dc878a6eb8fcfd9c3d65a24/transformed/jetified-firebase-storage-21.0.1/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-database:21.0.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/f95e9d55391c9731984c7e7e6de29d55/transformed/jetified-firebase-database-21.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-database:21.0.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/f95e9d55391c9731984c7e7e6de29d55/transformed/jetified-firebase-database-21.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.recaptcha:recaptcha:18.5.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/6b8d2075cc4b9182bf6b55ddfa92a435/transformed/jetified-recaptcha-18.5.1/AndroidManifest.xml:7:5-67
+MERGED from [com.google.android.recaptcha:recaptcha:18.5.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/6b8d2075cc4b9182bf6b55ddfa92a435/transformed/jetified-recaptcha-18.5.1/AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from /Users/aviralsingh/AndroidStudioProjects/converse/android/app/src/debug/AndroidManifest.xml:6:22-64
+uses-sdk
+INJECTED from /Users/aviralsingh/AndroidStudioProjects/converse/android/app/src/debug/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/aviralsingh/AndroidStudioProjects/converse/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/aviralsingh/AndroidStudioProjects/converse/android/app/src/debug/AndroidManifest.xml
+MERGED from [:cloud_firestore] /Users/aviralsingh/.pub-cache/hosted/pub.dev/cloud_firestore-5.5.0/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/cloud_firestore/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:cloud_firestore] /Users/aviralsingh/.pub-cache/hosted/pub.dev/cloud_firestore-5.5.0/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/cloud_firestore/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth] /Users/aviralsingh/.pub-cache/hosted/pub.dev/firebase_auth-5.3.3/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/firebase_auth/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth] /Users/aviralsingh/.pub-cache/hosted/pub.dev/firebase_auth-5.3.3/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/firebase_auth/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_database] /Users/aviralsingh/.pub-cache/hosted/pub.dev/firebase_database-11.1.6/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/firebase_database/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_database] /Users/aviralsingh/.pub-cache/hosted/pub.dev/firebase_database-11.1.6/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/firebase_database/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_storage] /Users/aviralsingh/.pub-cache/hosted/pub.dev/firebase_storage-12.3.6/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/firebase_storage/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_storage] /Users/aviralsingh/.pub-cache/hosted/pub.dev/firebase_storage-12.3.6/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/firebase_storage/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] /Users/aviralsingh/.pub-cache/hosted/pub.dev/firebase_core-3.8.0/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/firebase_core/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] /Users/aviralsingh/.pub-cache/hosted/pub.dev/firebase_core-3.8.0/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/firebase_core/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_contacts] /Users/aviralsingh/.pub-cache/hosted/pub.dev/flutter_contacts-1.1.9+2/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/flutter_contacts/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_contacts] /Users/aviralsingh/.pub-cache/hosted/pub.dev/flutter_contacts-1.1.9+2/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/flutter_contacts/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:image_picker_android] /Users/aviralsingh/.pub-cache/hosted/pub.dev/image_picker_android-0.8.12+18/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:6:5-44
+MERGED from [:image_picker_android] /Users/aviralsingh/.pub-cache/hosted/pub.dev/image_picker_android-0.8.12+18/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:6:5-44
+MERGED from [:flutter_plugin_android_lifecycle] /Users/aviralsingh/.pub-cache/hosted/pub.dev/flutter_plugin_android_lifecycle-2.0.23/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/flutter_plugin_android_lifecycle/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] /Users/aviralsingh/.pub-cache/hosted/pub.dev/flutter_plugin_android_lifecycle-2.0.23/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/flutter_plugin_android_lifecycle/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:google_sign_in_android] /Users/aviralsingh/.pub-cache/hosted/pub.dev/google_sign_in_android-6.1.33/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/google_sign_in_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:google_sign_in_android] /Users/aviralsingh/.pub-cache/hosted/pub.dev/google_sign_in_android-6.1.33/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/google_sign_in_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] /Users/aviralsingh/.pub-cache/hosted/pub.dev/path_provider_android-2.2.14/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/path_provider_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] /Users/aviralsingh/.pub-cache/hosted/pub.dev/path_provider_android-2.2.14/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/path_provider_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:photo_manager] /Users/aviralsingh/.pub-cache/hosted/pub.dev/photo_manager-3.6.3/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/photo_manager/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:photo_manager] /Users/aviralsingh/.pub-cache/hosted/pub.dev/photo_manager-3.6.3/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/photo_manager/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:sqflite_android] /Users/aviralsingh/.pub-cache/hosted/pub.dev/sqflite_android-2.4.0/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/sqflite_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:sqflite_android] /Users/aviralsingh/.pub-cache/hosted/pub.dev/sqflite_android-2.4.0/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/sqflite_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher_android] /Users/aviralsingh/.pub-cache/hosted/pub.dev/url_launcher_android-6.3.14/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/url_launcher_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher_android] /Users/aviralsingh/.pub-cache/hosted/pub.dev/url_launcher_android-6.3.14/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/url_launcher_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth:23.1.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/762121f511681907882dde777c49da20/transformed/jetified-firebase-auth-23.1.0/AndroidManifest.xml:21:5-23:151
+MERGED from [com.google.firebase:firebase-auth:23.1.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/762121f511681907882dde777c49da20/transformed/jetified-firebase-auth-23.1.0/AndroidManifest.xml:21:5-23:151
+MERGED from [com.google.firebase:firebase-firestore:25.1.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/a7eaa53f6e78839adda62bdbee19ad68/transformed/jetified-firebase-firestore-25.1.1/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-firestore:25.1.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/a7eaa53f6e78839adda62bdbee19ad68/transformed/jetified-firebase-firestore-25.1.1/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage:21.0.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/fde2867f9dc878a6eb8fcfd9c3d65a24/transformed/jetified-firebase-storage-21.0.1/AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-storage:21.0.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/fde2867f9dc878a6eb8fcfd9c3d65a24/transformed/jetified-firebase-storage-21.0.1/AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-database:21.0.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/f95e9d55391c9731984c7e7e6de29d55/transformed/jetified-firebase-database-21.0.0/AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-database:21.0.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/f95e9d55391c9731984c7e7e6de29d55/transformed/jetified-firebase-database-21.0.0/AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-appcheck:18.0.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/c73733ac8cadb0d13422224b9ccf874c/transformed/jetified-firebase-appcheck-18.0.0/AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-appcheck:18.0.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/c73733ac8cadb0d13422224b9ccf874c/transformed/jetified-firebase-appcheck-18.0.0/AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/de407ce4cd2cb9dfbcc5abdbe6d2f07b/transformed/jetified-firebase-common-ktx-21.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/de407ce4cd2cb9dfbcc5abdbe6d2f07b/transformed/jetified-firebase-common-ktx-21.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.credentials:credentials:1.2.0-rc01] /Users/aviralsingh/.gradle/caches/8.9/transforms/74abdb5273eaa8cf420ee8c18ec56e52/transformed/jetified-credentials-1.2.0-rc01/AndroidManifest.xml:5:5-44
+MERGED from [androidx.credentials:credentials:1.2.0-rc01] /Users/aviralsingh/.gradle/caches/8.9/transforms/74abdb5273eaa8cf420ee8c18ec56e52/transformed/jetified-credentials-1.2.0-rc01/AndroidManifest.xml:5:5-44
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/aviralsingh/.gradle/caches/8.9/transforms/32911a2493e136e5a0134ada41ba7790/transformed/jetified-credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:21:5-44
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/aviralsingh/.gradle/caches/8.9/transforms/32911a2493e136e5a0134ada41ba7790/transformed/jetified-credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:21:5-44
+MERGED from [com.google.android.gms:play-services-auth:21.0.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/6a2149178f77afdc6818fe857f05ac23/transformed/jetified-play-services-auth-21.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:21.0.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/6a2149178f77afdc6818fe857f05ac23/transformed/jetified-play-services-auth-21.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.16.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/d951f2f5a90251e89a4d34488c60fda2/transformed/jetified-glide-4.16.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.16.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/d951f2f5a90251e89a4d34488c60fda2/transformed/jetified-glide-4.16.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/e272d68ca6bfada085c21c6625d33999/transformed/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/e272d68ca6bfada085c21c6625d33999/transformed/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:21.0.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/402f180e9e84e72ef4fd9db71808a683/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-common:21.0.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/402f180e9e84e72ef4fd9db71808a683/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:19:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.2] /Users/aviralsingh/.gradle/caches/8.9/transforms/8855dbb9d1edf55d7fb97a8c35f2f3f3/transformed/jetified-play-services-auth-api-phone-18.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.2] /Users/aviralsingh/.gradle/caches/8.9/transforms/8855dbb9d1edf55d7fb97a8c35f2f3f3/transformed/jetified-play-services-auth-api-phone-18.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.10] /Users/aviralsingh/.gradle/caches/8.9/transforms/8915cc4c1e07afd03764160d62112eb2/transformed/jetified-play-services-auth-base-18.0.10/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.10] /Users/aviralsingh/.gradle/caches/8.9/transforms/8915cc4c1e07afd03764160d62112eb2/transformed/jetified-play-services-auth-base-18.0.10/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.recaptcha:recaptcha:18.5.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/6b8d2075cc4b9182bf6b55ddfa92a435/transformed/jetified-recaptcha-18.5.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.recaptcha:recaptcha:18.5.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/6b8d2075cc4b9182bf6b55ddfa92a435/transformed/jetified-recaptcha-18.5.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.play:integrity:1.3.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/f3b26391203ba67571039f8be9b1311f/transformed/jetified-integrity-1.3.0/AndroidManifest.xml:4:5-44
+MERGED from [com.google.android.play:integrity:1.3.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/f3b26391203ba67571039f8be9b1311f/transformed/jetified-integrity-1.3.0/AndroidManifest.xml:4:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/960c9956be97b88465665ccb84d50c0a/transformed/jetified-firebase-appcheck-interop-17.1.0/AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/960c9956be97b88465665ccb84d50c0a/transformed/jetified-firebase-appcheck-interop-17.1.0/AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/9a37ba69428707af8c85ec2d25000dcc/transformed/jetified-firebase-database-collection-18.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/9a37ba69428707af8c85ec2d25000dcc/transformed/jetified-firebase-database-collection-18.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/55b459a8d4244a64aca01067a8fa8e02/transformed/jetified-play-services-fido-20.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/55b459a8d4244a64aca01067a8fa8e02/transformed/jetified-play-services-fido-20.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/6e6dfcb3fff6bf0f2337415b1105ba2f/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/6e6dfcb3fff6bf0f2337415b1105ba2f/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [androidx.loader:loader:1.1.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/68ff12bdc3f45694b58590be667267d7/transformed/loader-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.1.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/68ff12bdc3f45694b58590be667267d7/transformed/loader-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/be16e4c2e36debacde449b14866f231a/transformed/lifecycle-livedata-core-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/be16e4c2e36debacde449b14866f231a/transformed/lifecycle-livedata-core-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/bc3d9e7901cd67495454c45a612cd5db/transformed/jetified-lifecycle-viewmodel-savedstate-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/bc3d9e7901cd67495454c45a612cd5db/transformed/jetified-lifecycle-viewmodel-savedstate-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/e331df45a422642de02f05b465fac6b4/transformed/lifecycle-viewmodel-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/e331df45a422642de02f05b465fac6b4/transformed/lifecycle-viewmodel-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/357576690cff27067c2388bc315dd684/transformed/lifecycle-runtime-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/357576690cff27067c2388bc315dd684/transformed/lifecycle-runtime-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/414f7c63da689d96557a872cd9bde215/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/414f7c63da689d96557a872cd9bde215/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/7a0f4059a4c1d771fbc1b8789d75ce71/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/7a0f4059a4c1d771fbc1b8789d75ce71/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.window:window-java:1.2.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/22e0d63403efb8f561e0cd03fec3e6b4/transformed/jetified-window-java-1.2.0/AndroidManifest.xml:19:5-44
+MERGED from [androidx.window:window-java:1.2.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/22e0d63403efb8f561e0cd03fec3e6b4/transformed/jetified-window-java-1.2.0/AndroidManifest.xml:19:5-44
+MERGED from [androidx.window:window:1.2.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/0c376418574f6f368f650ce813459738/transformed/jetified-window-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.window:window:1.2.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/0c376418574f6f368f650ce813459738/transformed/jetified-window-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/6d55b823150cfb5a6ed4add6d3fdb48b/transformed/jetified-play-services-tasks-18.2.0/AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/6d55b823150cfb5a6ed4add6d3fdb48b/transformed/jetified-play-services-tasks-18.2.0/AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/417a55de4349f78c39440883fcd69286/transformed/jetified-play-services-basement-18.4.0/AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/417a55de4349f78c39440883fcd69286/transformed/jetified-play-services-basement-18.4.0/AndroidManifest.xml:3:5-44
+MERGED from [androidx.fragment:fragment:1.7.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/9c087c295f6f4c0d99c03441a98049a8/transformed/fragment-1.7.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment:1.7.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/9c087c295f6f4c0d99c03441a98049a8/transformed/fragment-1.7.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity:1.9.2] /Users/aviralsingh/.gradle/caches/8.9/transforms/25b2dc5a3bed7e367e7444f5d186a041/transformed/jetified-activity-1.9.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.9.2] /Users/aviralsingh/.gradle/caches/8.9/transforms/25b2dc5a3bed7e367e7444f5d186a041/transformed/jetified-activity-1.9.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.8.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/9ee8fa5f129d256337fbbf3984198e08/transformed/browser-1.8.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.browser:browser:1.8.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/9ee8fa5f129d256337fbbf3984198e08/transformed/browser-1.8.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/bfb3ac1952cc1440abc60e36216a872d/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/bfb3ac1952cc1440abc60e36216a872d/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/418e387c595c97e12925fd56e43f961c/transformed/jetified-core-ktx-1.13.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/418e387c595c97e12925fd56e43f961c/transformed/jetified-core-ktx-1.13.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/410cb9a5d883e0c89fb9da4dbc4efe52/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/410cb9a5d883e0c89fb9da4dbc4efe52/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/7433917ffada13bf9f947885568da03d/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/7433917ffada13bf9f947885568da03d/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/c157937cb6b5bd46019ba35029645683/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/c157937cb6b5bd46019ba35029645683/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/0021ee0cab0995096f7253ab38b0708b/transformed/core-1.13.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/0021ee0cab0995096f7253ab38b0708b/transformed/core-1.13.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.3.7] /Users/aviralsingh/.gradle/caches/8.9/transforms/6039ccfe3b94464d772f7d26ccfda596/transformed/exifinterface-1.3.7/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.7] /Users/aviralsingh/.gradle/caches/8.9/transforms/6039ccfe3b94464d772f7d26ccfda596/transformed/exifinterface-1.3.7/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/3b0ba3d005f7f811372e751c5b6d6971/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/3b0ba3d005f7f811372e751c5b6d6971/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/3eaf3d39ad01421bb66cdc78ec6de91f/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/3eaf3d39ad01421bb66cdc78ec6de91f/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/6e42a15902b22db58b3c7d51b0010f46/transformed/jetified-tracing-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/6e42a15902b22db58b3c7d51b0010f46/transformed/jetified-tracing-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/96d404fc5d0321272954385b1cd9ca34/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/96d404fc5d0321272954385b1cd9ca34/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/b8f95e486b3d8baa41b5f054e9ecd7d8/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/b8f95e486b3d8baa41b5f054e9ecd7d8/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/5b4230c05a182304979f53721bc74adb/transformed/jetified-gifdecoder-4.16.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/5b4230c05a182304979f53721bc74adb/transformed/jetified-gifdecoder-4.16.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/de9f1536b283c0b62dc8602c7de8069d/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/de9f1536b283c0b62dc8602c7de8069d/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:18.0.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/bc4059012ed52ea6de635217742bb235/transformed/jetified-firebase-components-18.0.0/AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-components:18.0.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/bc4059012ed52ea6de635217742bb235/transformed/jetified-firebase-components-18.0.0/AndroidManifest.xml:18:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/10824970505649da069df339788f1fc8/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/10824970505649da069df339788f1fc8/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.window.extensions.core:core:1.0.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/4e55f19422445c3298715fc92efb62a3/transformed/jetified-core-1.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.window.extensions.core:core:1.0.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/4e55f19422445c3298715fc92efb62a3/transformed/jetified-core-1.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/dd06af1a4110938649659134d6e67bee/transformed/jetified-annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/dd06af1a4110938649659134d6e67bee/transformed/jetified-annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.libraries.identity.googleid:googleid:1.1.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/c06f37ce47e5609a8255933bd61dfea9/transformed/jetified-googleid-1.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.libraries.identity.googleid:googleid:1.1.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/c06f37ce47e5609a8255933bd61dfea9/transformed/jetified-googleid-1.1.0/AndroidManifest.xml:5:5-44
+MERGED from [io.grpc:grpc-android:1.62.2] /Users/aviralsingh/.gradle/caches/8.9/transforms/57f18335405eae99b01c0506fa864b47/transformed/jetified-grpc-android-1.62.2/AndroidManifest.xml:5:5-44
+MERGED from [io.grpc:grpc-android:1.62.2] /Users/aviralsingh/.gradle/caches/8.9/transforms/57f18335405eae99b01c0506fa864b47/transformed/jetified-grpc-android-1.62.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/b7018558807a8763f773dd8f2a6d7288/transformed/jetified-protolite-well-known-types-18.0.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/b7018558807a8763f773dd8f2a6d7288/transformed/jetified-protolite-well-known-types-18.0.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.play:core-common:2.0.3] /Users/aviralsingh/.gradle/caches/8.9/transforms/1a2f1184c82324afae55c6e927aa7389/transformed/jetified-core-common-2.0.3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.play:core-common:2.0.3] /Users/aviralsingh/.gradle/caches/8.9/transforms/1a2f1184c82324afae55c6e927aa7389/transformed/jetified-core-common-2.0.3/AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/762121f511681907882dde777c49da20/transformed/jetified-firebase-auth-23.1.0/AndroidManifest.xml:23:9-148
+	android:targetSdkVersion
+		INJECTED from /Users/aviralsingh/AndroidStudioProjects/converse/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/aviralsingh/AndroidStudioProjects/converse/android/app/src/debug/AndroidManifest.xml
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [:cloud_firestore] /Users/aviralsingh/.pub-cache/hosted/pub.dev/cloud_firestore-5.5.0/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/cloud_firestore/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_auth] /Users/aviralsingh/.pub-cache/hosted/pub.dev/firebase_auth-5.3.3/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/firebase_auth/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_auth] /Users/aviralsingh/.pub-cache/hosted/pub.dev/firebase_auth-5.3.3/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/firebase_auth/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_database] /Users/aviralsingh/.pub-cache/hosted/pub.dev/firebase_database-11.1.6/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/firebase_database/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_database] /Users/aviralsingh/.pub-cache/hosted/pub.dev/firebase_database-11.1.6/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/firebase_database/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_storage] /Users/aviralsingh/.pub-cache/hosted/pub.dev/firebase_storage-12.3.6/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/firebase_storage/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_storage] /Users/aviralsingh/.pub-cache/hosted/pub.dev/firebase_storage-12.3.6/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/firebase_storage/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_core] /Users/aviralsingh/.pub-cache/hosted/pub.dev/firebase_core-3.8.0/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/firebase_core/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_core] /Users/aviralsingh/.pub-cache/hosted/pub.dev/firebase_core-3.8.0/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/firebase_core/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:8:9-12:19
+MERGED from [com.google.firebase:firebase-auth:23.1.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/762121f511681907882dde777c49da20/transformed/jetified-firebase-auth-23.1.0/AndroidManifest.xml:66:9-72:19
+MERGED from [com.google.firebase:firebase-auth:23.1.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/762121f511681907882dde777c49da20/transformed/jetified-firebase-auth-23.1.0/AndroidManifest.xml:66:9-72:19
+MERGED from [com.google.firebase:firebase-firestore:25.1.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/a7eaa53f6e78839adda62bdbee19ad68/transformed/jetified-firebase-firestore-25.1.1/AndroidManifest.xml:14:9-23:19
+MERGED from [com.google.firebase:firebase-firestore:25.1.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/a7eaa53f6e78839adda62bdbee19ad68/transformed/jetified-firebase-firestore-25.1.1/AndroidManifest.xml:14:9-23:19
+MERGED from [com.google.firebase:firebase-storage:21.0.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/fde2867f9dc878a6eb8fcfd9c3d65a24/transformed/jetified-firebase-storage-21.0.1/AndroidManifest.xml:27:9-36:19
+MERGED from [com.google.firebase:firebase-storage:21.0.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/fde2867f9dc878a6eb8fcfd9c3d65a24/transformed/jetified-firebase-storage-21.0.1/AndroidManifest.xml:27:9-36:19
+MERGED from [com.google.firebase:firebase-database:21.0.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/f95e9d55391c9731984c7e7e6de29d55/transformed/jetified-firebase-database-21.0.0/AndroidManifest.xml:26:9-35:19
+MERGED from [com.google.firebase:firebase-database:21.0.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/f95e9d55391c9731984c7e7e6de29d55/transformed/jetified-firebase-database-21.0.0/AndroidManifest.xml:26:9-35:19
+MERGED from [com.google.firebase:firebase-appcheck:18.0.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/c73733ac8cadb0d13422224b9ccf874c/transformed/jetified-firebase-appcheck-18.0.0/AndroidManifest.xml:22:9-31:19
+MERGED from [com.google.firebase:firebase-appcheck:18.0.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/c73733ac8cadb0d13422224b9ccf874c/transformed/jetified-firebase-appcheck-18.0.0/AndroidManifest.xml:22:9-31:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/de407ce4cd2cb9dfbcc5abdbe6d2f07b/transformed/jetified-firebase-common-ktx-21.0.0/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/de407ce4cd2cb9dfbcc5abdbe6d2f07b/transformed/jetified-firebase-common-ktx-21.0.0/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/402f180e9e84e72ef4fd9db71808a683/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:30:9-38:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/402f180e9e84e72ef4fd9db71808a683/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:30:9-38:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/762121f511681907882dde777c49da20/transformed/jetified-firebase-auth-23.1.0/AndroidManifest.xml:68:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/402f180e9e84e72ef4fd9db71808a683/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:34:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/402f180e9e84e72ef4fd9db71808a683/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:32:13-43
+	android:name
+		ADDED from [:cloud_firestore] /Users/aviralsingh/.pub-cache/hosted/pub.dev/cloud_firestore-5.5.0/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/cloud_firestore/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:8:18-89
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.firestore.FlutterFirebaseFirestoreRegistrar
+ADDED from [:cloud_firestore] /Users/aviralsingh/.pub-cache/hosted/pub.dev/cloud_firestore-5.5.0/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/cloud_firestore/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:cloud_firestore] /Users/aviralsingh/.pub-cache/hosted/pub.dev/cloud_firestore-5.5.0/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/cloud_firestore/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:cloud_firestore] /Users/aviralsingh/.pub-cache/hosted/pub.dev/cloud_firestore-5.5.0/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/cloud_firestore/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:10:17-134
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.auth.FlutterFirebaseAuthRegistrar
+ADDED from [:firebase_auth] /Users/aviralsingh/.pub-cache/hosted/pub.dev/firebase_auth-5.3.3/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/firebase_auth/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_auth] /Users/aviralsingh/.pub-cache/hosted/pub.dev/firebase_auth-5.3.3/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/firebase_auth/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_auth] /Users/aviralsingh/.pub-cache/hosted/pub.dev/firebase_auth-5.3.3/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/firebase_auth/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:10:17-124
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.database.FlutterFirebaseAppRegistrar
+ADDED from [:firebase_database] /Users/aviralsingh/.pub-cache/hosted/pub.dev/firebase_database-11.1.6/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/firebase_database/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_database] /Users/aviralsingh/.pub-cache/hosted/pub.dev/firebase_database-11.1.6/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/firebase_database/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_database] /Users/aviralsingh/.pub-cache/hosted/pub.dev/firebase_database-11.1.6/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/firebase_database/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:10:17-127
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.storage.FlutterFirebaseAppRegistrar
+ADDED from [:firebase_storage] /Users/aviralsingh/.pub-cache/hosted/pub.dev/firebase_storage-12.3.6/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/firebase_storage/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_storage] /Users/aviralsingh/.pub-cache/hosted/pub.dev/firebase_storage-12.3.6/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/firebase_storage/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_storage] /Users/aviralsingh/.pub-cache/hosted/pub.dev/firebase_storage-12.3.6/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/firebase_storage/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:10:17-126
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar
+ADDED from [:firebase_core] /Users/aviralsingh/.pub-cache/hosted/pub.dev/firebase_core-3.8.0/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/firebase_core/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_core] /Users/aviralsingh/.pub-cache/hosted/pub.dev/firebase_core-3.8.0/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/firebase_core/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_core] /Users/aviralsingh/.pub-cache/hosted/pub.dev/firebase_core-3.8.0/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/firebase_core/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:10:17-124
+provider#io.flutter.plugins.imagepicker.ImagePickerFileProvider
+ADDED from [:image_picker_android] /Users/aviralsingh/.pub-cache/hosted/pub.dev/image_picker_android-0.8.12+18/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:9:9-17:20
+	android:grantUriPermissions
+		ADDED from [:image_picker_android] /Users/aviralsingh/.pub-cache/hosted/pub.dev/image_picker_android-0.8.12+18/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:13:13-47
+	android:authorities
+		ADDED from [:image_picker_android] /Users/aviralsingh/.pub-cache/hosted/pub.dev/image_picker_android-0.8.12+18/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:11:13-74
+	android:exported
+		ADDED from [:image_picker_android] /Users/aviralsingh/.pub-cache/hosted/pub.dev/image_picker_android-0.8.12+18/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:12:13-37
+	android:name
+		ADDED from [:image_picker_android] /Users/aviralsingh/.pub-cache/hosted/pub.dev/image_picker_android-0.8.12+18/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:10:13-82
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:image_picker_android] /Users/aviralsingh/.pub-cache/hosted/pub.dev/image_picker_android-0.8.12+18/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:14:13-16:75
+	android:resource
+		ADDED from [:image_picker_android] /Users/aviralsingh/.pub-cache/hosted/pub.dev/image_picker_android-0.8.12+18/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:16:17-72
+	android:name
+		ADDED from [:image_picker_android] /Users/aviralsingh/.pub-cache/hosted/pub.dev/image_picker_android-0.8.12+18/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:15:17-67
+service#com.google.android.gms.metadata.ModuleDependencies
+ADDED from [:image_picker_android] /Users/aviralsingh/.pub-cache/hosted/pub.dev/image_picker_android-0.8.12+18/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:19:9-31:19
+	android:enabled
+		ADDED from [:image_picker_android] /Users/aviralsingh/.pub-cache/hosted/pub.dev/image_picker_android-0.8.12+18/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:21:13-36
+	android:exported
+		ADDED from [:image_picker_android] /Users/aviralsingh/.pub-cache/hosted/pub.dev/image_picker_android-0.8.12+18/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:22:13-37
+	tools:ignore
+		ADDED from [:image_picker_android] /Users/aviralsingh/.pub-cache/hosted/pub.dev/image_picker_android-0.8.12+18/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:23:13-40
+	android:name
+		ADDED from [:image_picker_android] /Users/aviralsingh/.pub-cache/hosted/pub.dev/image_picker_android-0.8.12+18/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:20:13-78
+intent-filter#action:name:com.google.android.gms.metadata.MODULE_DEPENDENCIES
+ADDED from [:image_picker_android] /Users/aviralsingh/.pub-cache/hosted/pub.dev/image_picker_android-0.8.12+18/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:24:13-26:29
+action#com.google.android.gms.metadata.MODULE_DEPENDENCIES
+ADDED from [:image_picker_android] /Users/aviralsingh/.pub-cache/hosted/pub.dev/image_picker_android-0.8.12+18/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:25:17-94
+	android:name
+		ADDED from [:image_picker_android] /Users/aviralsingh/.pub-cache/hosted/pub.dev/image_picker_android-0.8.12+18/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:25:25-91
+meta-data#photopicker_activity:0:required
+ADDED from [:image_picker_android] /Users/aviralsingh/.pub-cache/hosted/pub.dev/image_picker_android-0.8.12+18/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:28:13-30:36
+	android:value
+		ADDED from [:image_picker_android] /Users/aviralsingh/.pub-cache/hosted/pub.dev/image_picker_android-0.8.12+18/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:30:17-33
+	android:name
+		ADDED from [:image_picker_android] /Users/aviralsingh/.pub-cache/hosted/pub.dev/image_picker_android-0.8.12+18/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:29:17-63
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [:photo_manager] /Users/aviralsingh/.pub-cache/hosted/pub.dev/photo_manager-3.6.3/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/photo_manager/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:7:5-9:38
+	android:maxSdkVersion
+		ADDED from [:photo_manager] /Users/aviralsingh/.pub-cache/hosted/pub.dev/photo_manager-3.6.3/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/photo_manager/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:9:9-35
+	android:name
+		ADDED from [:photo_manager] /Users/aviralsingh/.pub-cache/hosted/pub.dev/photo_manager-3.6.3/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/photo_manager/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:8:9-64
+activity#io.flutter.plugins.urllauncher.WebViewActivity
+ADDED from [:url_launcher_android] /Users/aviralsingh/.pub-cache/hosted/pub.dev/url_launcher_android-6.3.14/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/url_launcher_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:8:9-11:74
+	android:exported
+		ADDED from [:url_launcher_android] /Users/aviralsingh/.pub-cache/hosted/pub.dev/url_launcher_android-6.3.14/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/url_launcher_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:10:13-37
+	android:theme
+		ADDED from [:url_launcher_android] /Users/aviralsingh/.pub-cache/hosted/pub.dev/url_launcher_android-6.3.14/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/url_launcher_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:11:13-71
+	android:name
+		ADDED from [:url_launcher_android] /Users/aviralsingh/.pub-cache/hosted/pub.dev/url_launcher_android-6.3.14/android/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/url_launcher_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:9:13-74
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-auth:23.1.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/762121f511681907882dde777c49da20/transformed/jetified-firebase-auth-23.1.0/AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-firestore:25.1.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/a7eaa53f6e78839adda62bdbee19ad68/transformed/jetified-firebase-firestore-25.1.1/AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-firestore:25.1.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/a7eaa53f6e78839adda62bdbee19ad68/transformed/jetified-firebase-firestore-25.1.1/AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-storage:21.0.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/fde2867f9dc878a6eb8fcfd9c3d65a24/transformed/jetified-firebase-storage-21.0.1/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-storage:21.0.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/fde2867f9dc878a6eb8fcfd9c3d65a24/transformed/jetified-firebase-storage-21.0.1/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-database:21.0.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/f95e9d55391c9731984c7e7e6de29d55/transformed/jetified-firebase-database-21.0.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-database:21.0.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/f95e9d55391c9731984c7e7e6de29d55/transformed/jetified-firebase-database-21.0.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.recaptcha:recaptcha:18.5.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/6b8d2075cc4b9182bf6b55ddfa92a435/transformed/jetified-recaptcha-18.5.1/AndroidManifest.xml:8:5-79
+MERGED from [com.google.android.recaptcha:recaptcha:18.5.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/6b8d2075cc4b9182bf6b55ddfa92a435/transformed/jetified-recaptcha-18.5.1/AndroidManifest.xml:8:5-79
+MERGED from [io.grpc:grpc-android:1.62.2] /Users/aviralsingh/.gradle/caches/8.9/transforms/57f18335405eae99b01c0506fa864b47/transformed/jetified-grpc-android-1.62.2/AndroidManifest.xml:7:5-79
+MERGED from [io.grpc:grpc-android:1.62.2] /Users/aviralsingh/.gradle/caches/8.9/transforms/57f18335405eae99b01c0506fa864b47/transformed/jetified-grpc-android-1.62.2/AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/762121f511681907882dde777c49da20/transformed/jetified-firebase-auth-23.1.0/AndroidManifest.xml:26:22-76
+activity#com.google.firebase.auth.internal.GenericIdpActivity
+ADDED from [com.google.firebase:firebase-auth:23.1.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/762121f511681907882dde777c49da20/transformed/jetified-firebase-auth-23.1.0/AndroidManifest.xml:29:9-46:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/762121f511681907882dde777c49da20/transformed/jetified-firebase-auth-23.1.0/AndroidManifest.xml:31:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/762121f511681907882dde777c49da20/transformed/jetified-firebase-auth-23.1.0/AndroidManifest.xml:33:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/762121f511681907882dde777c49da20/transformed/jetified-firebase-auth-23.1.0/AndroidManifest.xml:32:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/762121f511681907882dde777c49da20/transformed/jetified-firebase-auth-23.1.0/AndroidManifest.xml:34:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/762121f511681907882dde777c49da20/transformed/jetified-firebase-auth-23.1.0/AndroidManifest.xml:30:13-80
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:genericidp
+ADDED from [com.google.firebase:firebase-auth:23.1.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/762121f511681907882dde777c49da20/transformed/jetified-firebase-auth-23.1.0/AndroidManifest.xml:35:13-45:29
+action#android.intent.action.VIEW
+ADDED from [com.google.firebase:firebase-auth:23.1.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/762121f511681907882dde777c49da20/transformed/jetified-firebase-auth-23.1.0/AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/762121f511681907882dde777c49da20/transformed/jetified-firebase-auth-23.1.0/AndroidManifest.xml:36:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:23.1.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/762121f511681907882dde777c49da20/transformed/jetified-firebase-auth-23.1.0/AndroidManifest.xml:38:17-76
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/762121f511681907882dde777c49da20/transformed/jetified-firebase-auth-23.1.0/AndroidManifest.xml:38:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.firebase:firebase-auth:23.1.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/762121f511681907882dde777c49da20/transformed/jetified-firebase-auth-23.1.0/AndroidManifest.xml:39:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/762121f511681907882dde777c49da20/transformed/jetified-firebase-auth-23.1.0/AndroidManifest.xml:39:27-75
+activity#com.google.firebase.auth.internal.RecaptchaActivity
+ADDED from [com.google.firebase:firebase-auth:23.1.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/762121f511681907882dde777c49da20/transformed/jetified-firebase-auth-23.1.0/AndroidManifest.xml:47:9-64:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/762121f511681907882dde777c49da20/transformed/jetified-firebase-auth-23.1.0/AndroidManifest.xml:49:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/762121f511681907882dde777c49da20/transformed/jetified-firebase-auth-23.1.0/AndroidManifest.xml:51:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/762121f511681907882dde777c49da20/transformed/jetified-firebase-auth-23.1.0/AndroidManifest.xml:50:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/762121f511681907882dde777c49da20/transformed/jetified-firebase-auth-23.1.0/AndroidManifest.xml:52:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/762121f511681907882dde777c49da20/transformed/jetified-firebase-auth-23.1.0/AndroidManifest.xml:48:13-79
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:recaptcha
+ADDED from [com.google.firebase:firebase-auth:23.1.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/762121f511681907882dde777c49da20/transformed/jetified-firebase-auth-23.1.0/AndroidManifest.xml:53:13-63:29
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:23.1.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/762121f511681907882dde777c49da20/transformed/jetified-firebase-auth-23.1.0/AndroidManifest.xml:69:13-71:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/762121f511681907882dde777c49da20/transformed/jetified-firebase-auth-23.1.0/AndroidManifest.xml:71:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/762121f511681907882dde777c49da20/transformed/jetified-firebase-auth-23.1.0/AndroidManifest.xml:70:17-109
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirebaseFirestoreKtxRegistrar
+ADDED from [com.google.firebase:firebase-firestore:25.1.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/a7eaa53f6e78839adda62bdbee19ad68/transformed/jetified-firebase-firestore-25.1.1/AndroidManifest.xml:17:13-19:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:25.1.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/a7eaa53f6e78839adda62bdbee19ad68/transformed/jetified-firebase-firestore-25.1.1/AndroidManifest.xml:19:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:25.1.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/a7eaa53f6e78839adda62bdbee19ad68/transformed/jetified-firebase-firestore-25.1.1/AndroidManifest.xml:18:17-122
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:25.1.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/a7eaa53f6e78839adda62bdbee19ad68/transformed/jetified-firebase-firestore-25.1.1/AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:25.1.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/a7eaa53f6e78839adda62bdbee19ad68/transformed/jetified-firebase-firestore-25.1.1/AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:25.1.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/a7eaa53f6e78839adda62bdbee19ad68/transformed/jetified-firebase-firestore-25.1.1/AndroidManifest.xml:21:17-111
+meta-data#com.google.firebase.components:com.google.firebase.storage.FirebaseStorageKtxRegistrar
+ADDED from [com.google.firebase:firebase-storage:21.0.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/fde2867f9dc878a6eb8fcfd9c3d65a24/transformed/jetified-firebase-storage-21.0.1/AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.firebase:firebase-storage:21.0.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/fde2867f9dc878a6eb8fcfd9c3d65a24/transformed/jetified-firebase-storage-21.0.1/AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:21.0.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/fde2867f9dc878a6eb8fcfd9c3d65a24/transformed/jetified-firebase-storage-21.0.1/AndroidManifest.xml:31:17-118
+meta-data#com.google.firebase.components:com.google.firebase.storage.StorageRegistrar
+ADDED from [com.google.firebase:firebase-storage:21.0.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/fde2867f9dc878a6eb8fcfd9c3d65a24/transformed/jetified-firebase-storage-21.0.1/AndroidManifest.xml:33:13-35:85
+	android:value
+		ADDED from [com.google.firebase:firebase-storage:21.0.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/fde2867f9dc878a6eb8fcfd9c3d65a24/transformed/jetified-firebase-storage-21.0.1/AndroidManifest.xml:35:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:21.0.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/fde2867f9dc878a6eb8fcfd9c3d65a24/transformed/jetified-firebase-storage-21.0.1/AndroidManifest.xml:34:17-107
+meta-data#com.google.firebase.components:com.google.firebase.database.FirebaseDatabaseKtxRegistrar
+ADDED from [com.google.firebase:firebase-database:21.0.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/f95e9d55391c9731984c7e7e6de29d55/transformed/jetified-firebase-database-21.0.0/AndroidManifest.xml:29:13-31:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:21.0.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/f95e9d55391c9731984c7e7e6de29d55/transformed/jetified-firebase-database-21.0.0/AndroidManifest.xml:31:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:21.0.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/f95e9d55391c9731984c7e7e6de29d55/transformed/jetified-firebase-database-21.0.0/AndroidManifest.xml:30:17-120
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:21.0.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/f95e9d55391c9731984c7e7e6de29d55/transformed/jetified-firebase-database-21.0.0/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:21.0.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/f95e9d55391c9731984c7e7e6de29d55/transformed/jetified-firebase-database-21.0.0/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:21.0.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/f95e9d55391c9731984c7e7e6de29d55/transformed/jetified-firebase-database-21.0.0/AndroidManifest.xml:33:17-109
+meta-data#com.google.firebase.components:com.google.firebase.appcheck.FirebaseAppCheckKtxRegistrar
+ADDED from [com.google.firebase:firebase-appcheck:18.0.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/c73733ac8cadb0d13422224b9ccf874c/transformed/jetified-firebase-appcheck-18.0.0/AndroidManifest.xml:25:13-27:85
+	android:value
+		ADDED from [com.google.firebase:firebase-appcheck:18.0.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/c73733ac8cadb0d13422224b9ccf874c/transformed/jetified-firebase-appcheck-18.0.0/AndroidManifest.xml:27:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-appcheck:18.0.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/c73733ac8cadb0d13422224b9ccf874c/transformed/jetified-firebase-appcheck-18.0.0/AndroidManifest.xml:26:17-120
+meta-data#com.google.firebase.components:com.google.firebase.appcheck.FirebaseAppCheckRegistrar
+ADDED from [com.google.firebase:firebase-appcheck:18.0.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/c73733ac8cadb0d13422224b9ccf874c/transformed/jetified-firebase-appcheck-18.0.0/AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-appcheck:18.0.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/c73733ac8cadb0d13422224b9ccf874c/transformed/jetified-firebase-appcheck-18.0.0/AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-appcheck:18.0.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/c73733ac8cadb0d13422224b9ccf874c/transformed/jetified-firebase-appcheck-18.0.0/AndroidManifest.xml:29:17-117
+meta-data#com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonLegacyRegistrar
+ADDED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/de407ce4cd2cb9dfbcc5abdbe6d2f07b/transformed/jetified-firebase-common-ktx-21.0.0/AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/de407ce4cd2cb9dfbcc5abdbe6d2f07b/transformed/jetified-firebase-common-ktx-21.0.0/AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/de407ce4cd2cb9dfbcc5abdbe6d2f07b/transformed/jetified-firebase-common-ktx-21.0.0/AndroidManifest.xml:13:17-116
+service#androidx.credentials.playservices.CredentialProviderMetadataHolder
+ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/aviralsingh/.gradle/caches/8.9/transforms/32911a2493e136e5a0134ada41ba7790/transformed/jetified-credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:24:9-32:19
+	android:enabled
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/aviralsingh/.gradle/caches/8.9/transforms/32911a2493e136e5a0134ada41ba7790/transformed/jetified-credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:26:13-35
+	android:exported
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/aviralsingh/.gradle/caches/8.9/transforms/32911a2493e136e5a0134ada41ba7790/transformed/jetified-credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/aviralsingh/.gradle/caches/8.9/transforms/32911a2493e136e5a0134ada41ba7790/transformed/jetified-credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:28:13-60
+	android:name
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/aviralsingh/.gradle/caches/8.9/transforms/32911a2493e136e5a0134ada41ba7790/transformed/jetified-credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:25:13-94
+meta-data#androidx.credentials.CREDENTIAL_PROVIDER_KEY
+ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/aviralsingh/.gradle/caches/8.9/transforms/32911a2493e136e5a0134ada41ba7790/transformed/jetified-credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:29:13-31:104
+	android:value
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/aviralsingh/.gradle/caches/8.9/transforms/32911a2493e136e5a0134ada41ba7790/transformed/jetified-credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:31:17-101
+	android:name
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/aviralsingh/.gradle/caches/8.9/transforms/32911a2493e136e5a0134ada41ba7790/transformed/jetified-credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:30:17-76
+activity#androidx.credentials.playservices.HiddenActivity
+ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/aviralsingh/.gradle/caches/8.9/transforms/32911a2493e136e5a0134ada41ba7790/transformed/jetified-credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:34:9-41:20
+	android:fitsSystemWindows
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/aviralsingh/.gradle/caches/8.9/transforms/32911a2493e136e5a0134ada41ba7790/transformed/jetified-credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:39:13-45
+	android:enabled
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/aviralsingh/.gradle/caches/8.9/transforms/32911a2493e136e5a0134ada41ba7790/transformed/jetified-credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/aviralsingh/.gradle/caches/8.9/transforms/32911a2493e136e5a0134ada41ba7790/transformed/jetified-credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:38:13-37
+	android:configChanges
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/aviralsingh/.gradle/caches/8.9/transforms/32911a2493e136e5a0134ada41ba7790/transformed/jetified-credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:36:13-87
+	android:theme
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/aviralsingh/.gradle/caches/8.9/transforms/32911a2493e136e5a0134ada41ba7790/transformed/jetified-credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:40:13-48
+	android:name
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/aviralsingh/.gradle/caches/8.9/transforms/32911a2493e136e5a0134ada41ba7790/transformed/jetified-credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:35:13-76
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:21.0.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/6a2149178f77afdc6818fe857f05ac23/transformed/jetified-play-services-auth-21.0.0/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:21.0.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/6a2149178f77afdc6818fe857f05ac23/transformed/jetified-play-services-auth-21.0.0/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:21.0.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/6a2149178f77afdc6818fe857f05ac23/transformed/jetified-play-services-auth-21.0.0/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:21.0.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/6a2149178f77afdc6818fe857f05ac23/transformed/jetified-play-services-auth-21.0.0/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:21.0.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/6a2149178f77afdc6818fe857f05ac23/transformed/jetified-play-services-auth-21.0.0/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:21.0.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/6a2149178f77afdc6818fe857f05ac23/transformed/jetified-play-services-auth-21.0.0/AndroidManifest.xml:33:9-37:51
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:21.0.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/6a2149178f77afdc6818fe857f05ac23/transformed/jetified-play-services-auth-21.0.0/AndroidManifest.xml:35:13-36
+	android:visibleToInstantApps
+		ADDED from [com.google.android.gms:play-services-auth:21.0.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/6a2149178f77afdc6818fe857f05ac23/transformed/jetified-play-services-auth-21.0.0/AndroidManifest.xml:37:13-48
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:21.0.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/6a2149178f77afdc6818fe857f05ac23/transformed/jetified-play-services-auth-21.0.0/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:21.0.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/6a2149178f77afdc6818fe857f05ac23/transformed/jetified-play-services-auth-21.0.0/AndroidManifest.xml:34:13-89
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/402f180e9e84e72ef4fd9db71808a683/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:23:9-28:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/402f180e9e84e72ef4fd9db71808a683/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:25:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/402f180e9e84e72ef4fd9db71808a683/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:27:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/402f180e9e84e72ef4fd9db71808a683/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:26:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/402f180e9e84e72ef4fd9db71808a683/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:28:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/402f180e9e84e72ef4fd9db71808a683/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:24:13-77
+meta-data#com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar
+ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/402f180e9e84e72ef4fd9db71808a683/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:35:13-37:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/402f180e9e84e72ef4fd9db71808a683/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:37:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/402f180e9e84e72ef4fd9db71808a683/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:36:17-109
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from [com.google.android.recaptcha:recaptcha:18.5.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/6b8d2075cc4b9182bf6b55ddfa92a435/transformed/jetified-recaptcha-18.5.1/AndroidManifest.xml:9:5-98
+	android:name
+		ADDED from [com.google.android.recaptcha:recaptcha:18.5.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/6b8d2075cc4b9182bf6b55ddfa92a435/transformed/jetified-recaptcha-18.5.1/AndroidManifest.xml:9:22-95
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.1.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/6e6dfcb3fff6bf0f2337415b1105ba2f/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/6e6dfcb3fff6bf0f2337415b1105ba2f/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/6e6dfcb3fff6bf0f2337415b1105ba2f/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/6e6dfcb3fff6bf0f2337415b1105ba2f/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:20:19-85
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/414f7c63da689d96557a872cd9bde215/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/3b0ba3d005f7f811372e751c5b6d6971/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/3b0ba3d005f7f811372e751c5b6d6971/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/3eaf3d39ad01421bb66cdc78ec6de91f/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/3eaf3d39ad01421bb66cdc78ec6de91f/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/414f7c63da689d96557a872cd9bde215/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/414f7c63da689d96557a872cd9bde215/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/414f7c63da689d96557a872cd9bde215/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/414f7c63da689d96557a872cd9bde215/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/414f7c63da689d96557a872cd9bde215/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/414f7c63da689d96557a872cd9bde215/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/414f7c63da689d96557a872cd9bde215/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:30:17-78
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.2.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/0c376418574f6f368f650ce813459738/transformed/jetified-window-1.2.0/AndroidManifest.xml:23:9-25:40
+	android:required
+		ADDED from [androidx.window:window:1.2.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/0c376418574f6f368f650ce813459738/transformed/jetified-window-1.2.0/AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [androidx.window:window:1.2.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/0c376418574f6f368f650ce813459738/transformed/jetified-window-1.2.0/AndroidManifest.xml:24:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.2.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/0c376418574f6f368f650ce813459738/transformed/jetified-window-1.2.0/AndroidManifest.xml:26:9-28:40
+	android:required
+		ADDED from [androidx.window:window:1.2.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/0c376418574f6f368f650ce813459738/transformed/jetified-window-1.2.0/AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.window:window:1.2.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/0c376418574f6f368f650ce813459738/transformed/jetified-window-1.2.0/AndroidManifest.xml:27:13-51
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.4.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/417a55de4349f78c39440883fcd69286/transformed/jetified-play-services-basement-18.4.0/AndroidManifest.xml:6:9-122
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.4.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/417a55de4349f78c39440883fcd69286/transformed/jetified-play-services-basement-18.4.0/AndroidManifest.xml:6:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.4.0] /Users/aviralsingh/.gradle/caches/8.9/transforms/417a55de4349f78c39440883fcd69286/transformed/jetified-play-services-basement-18.4.0/AndroidManifest.xml:6:20-65
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/0021ee0cab0995096f7253ab38b0708b/transformed/core-1.13.1/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/0021ee0cab0995096f7253ab38b0708b/transformed/core-1.13.1/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/0021ee0cab0995096f7253ab38b0708b/transformed/core-1.13.1/AndroidManifest.xml:23:9-81
+permission#com.example.converse.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/0021ee0cab0995096f7253ab38b0708b/transformed/core-1.13.1/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/0021ee0cab0995096f7253ab38b0708b/transformed/core-1.13.1/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/0021ee0cab0995096f7253ab38b0708b/transformed/core-1.13.1/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/0021ee0cab0995096f7253ab38b0708b/transformed/core-1.13.1/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/0021ee0cab0995096f7253ab38b0708b/transformed/core-1.13.1/AndroidManifest.xml:26:22-94
+uses-permission#com.example.converse.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/0021ee0cab0995096f7253ab38b0708b/transformed/core-1.13.1/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/0021ee0cab0995096f7253ab38b0708b/transformed/core-1.13.1/AndroidManifest.xml:26:22-94
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/3b0ba3d005f7f811372e751c5b6d6971/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/3b0ba3d005f7f811372e751c5b6d6971/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/3b0ba3d005f7f811372e751c5b6d6971/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/3b0ba3d005f7f811372e751c5b6d6971/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/3b0ba3d005f7f811372e751c5b6d6971/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/3b0ba3d005f7f811372e751c5b6d6971/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/3b0ba3d005f7f811372e751c5b6d6971/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/3b0ba3d005f7f811372e751c5b6d6971/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/3b0ba3d005f7f811372e751c5b6d6971/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/3b0ba3d005f7f811372e751c5b6d6971/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/3b0ba3d005f7f811372e751c5b6d6971/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/3b0ba3d005f7f811372e751c5b6d6971/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/3b0ba3d005f7f811372e751c5b6d6971/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/3b0ba3d005f7f811372e751c5b6d6971/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/3b0ba3d005f7f811372e751c5b6d6971/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/3b0ba3d005f7f811372e751c5b6d6971/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/3b0ba3d005f7f811372e751c5b6d6971/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/3b0ba3d005f7f811372e751c5b6d6971/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/3b0ba3d005f7f811372e751c5b6d6971/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/3b0ba3d005f7f811372e751c5b6d6971/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/aviralsingh/.gradle/caches/8.9/transforms/3b0ba3d005f7f811372e751c5b6d6971/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:50:25-92
+activity#com.google.android.play.core.common.PlayCoreDialogWrapperActivity
+ADDED from [com.google.android.play:core-common:2.0.3] /Users/aviralsingh/.gradle/caches/8.9/transforms/1a2f1184c82324afae55c6e927aa7389/transformed/jetified-core-common-2.0.3/AndroidManifest.xml:14:9-18:65
+	android:stateNotNeeded
+		ADDED from [com.google.android.play:core-common:2.0.3] /Users/aviralsingh/.gradle/caches/8.9/transforms/1a2f1184c82324afae55c6e927aa7389/transformed/jetified-core-common-2.0.3/AndroidManifest.xml:17:13-42
+	android:exported
+		ADDED from [com.google.android.play:core-common:2.0.3] /Users/aviralsingh/.gradle/caches/8.9/transforms/1a2f1184c82324afae55c6e927aa7389/transformed/jetified-core-common-2.0.3/AndroidManifest.xml:16:13-37
+	android:theme
+		ADDED from [com.google.android.play:core-common:2.0.3] /Users/aviralsingh/.gradle/caches/8.9/transforms/1a2f1184c82324afae55c6e927aa7389/transformed/jetified-core-common-2.0.3/AndroidManifest.xml:18:13-62
+	android:name
+		ADDED from [com.google.android.play:core-common:2.0.3] /Users/aviralsingh/.gradle/caches/8.9/transforms/1a2f1184c82324afae55c6e927aa7389/transformed/jetified-core-common-2.0.3/AndroidManifest.xml:15:13-93

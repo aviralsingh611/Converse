@@ -1,0 +1,4 @@
+#Thu Nov 07 22:37:16 IST 2024
+base.0=/Users/aviralsingh/AndroidStudioProjects/converse/android/app/property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

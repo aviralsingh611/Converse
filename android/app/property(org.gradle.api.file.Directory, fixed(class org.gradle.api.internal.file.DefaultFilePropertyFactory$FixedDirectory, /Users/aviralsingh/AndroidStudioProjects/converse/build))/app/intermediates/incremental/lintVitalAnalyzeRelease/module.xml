@@ -1,0 +1,18 @@
+<lint-module
+    format="1"
+    dir="/Users/aviralsingh/AndroidStudioProjects/converse/android/app"
+    name=":app"
+    type="APP"
+    maven="android:app:unspecified"
+    agpVersion="8.7.2"
+    buildFolder="property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactory$FixedDirectory, /Users/aviralsingh/AndroidStudioProjects/converse/build))/app"
+    bootClassPath="/Users/aviralsingh/Library/Android/sdk/platforms/android-34/android.jar:/Users/aviralsingh/Library/Android/sdk/build-tools/34.0.0/core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-34">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>
